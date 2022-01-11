@@ -1,0 +1,19 @@
+{
+  "name": "hackerrank_auto",
+  "version": "1.0.0",
+  "description": "harman",
+  "main": "HRchallenges.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmankaurr/Hackerrank-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harmankaurr/Hackerrank-automation/issues"
+  },
+  "homepage": "https://github.com/harmankaurr/Hackerrank-automation#readme"
+}
